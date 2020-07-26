@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Ya Yuan';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Ya Yuan'), local('Ya Yuan'), url('../fonts/Ya Yuan/Ya Yuan.woff') format('woff');
+}
+@font-face {
+  font-family: 'Ya Yuan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ya Yuan'), local('Ya Yuan'), url('../fonts/Ya Yuan/Ya Yuan.woff') format('woff');
+}
+@font-face {
+  font-family: 'Ya Yuan';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Ya Yuan'), local('Ya Yuan'), url('../fonts/Ya Yuan/Ya Yuan.woff') format('woff');
+}
